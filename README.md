@@ -14,4 +14,5 @@ Precision, Recall, F1-Score: Balancing false positives and false negatives. ROC-
 
 Multi-factor Authentication (MFA) Behavior Analytics Velocity Checks (limits on transaction frequency) Rule-based Filters
 
-Tools and Technologies: Data Processing: Pandas, NumPy, Scikit-learn Machine Learning: TensorFlow, PyTorch, Scikit-learn Real-time Processing: Apache Kafka, Apache Flink, AWS Kinesis Deployment: Docker, Kubernetes, AWS Lambda, Azure Functions
+Tools and Technologies: Data Processing: Pandas, NumPy, Scikit-learn Machine Learning: TensorFlow, PyTorch, Scikit-learn Real-time Processing: Apache Kafka, Apache Flink, AWS Kinesis Deployment
+: Docker, Kubernetes, AWS Lambda, Azure Functions
